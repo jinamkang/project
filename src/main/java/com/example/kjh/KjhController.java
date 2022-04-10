@@ -11,7 +11,7 @@ public class KjhController {
     public String data() {
         String data = "";
         for (int i = 0; i < 10; i++) {
-            data += "안녕<br>";
+            data += "안녕 하하하 !~~<br>";
         }
         return data;
     }
