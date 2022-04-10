@@ -20,3 +20,12 @@ public class KjhApplication {
 
 // commit 커밋, -> 로컬저장소에 변경을 저장
 // push 푸쉬 -> 로컬저장소에 커밋된 내용을 원격저장소로 업로드
+
+
+/**
+ * 커리큘럼:
+ * DB CRUD(create, read, update, delete) 프레임워크: Mybatis, JPA 크게 두가지
+ *
+ * 프로젝트:
+ * Mybatis, Oracle,
+ */
