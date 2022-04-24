@@ -13,11 +13,11 @@ public class ListTest {
         Email email3 = new Email("제목3", "3", "임꺽", "정", "하하하");
         Email email4 = new Email("제목4", "4", "하하", "바보", "하하하");
         Email email5 = new Email("제목5", "5", "경찰", "도둑", "하하하");
-        list.add(email1);
-        list.add(email2);
-        list.add(email3);
-        list.add(email4);
-        list.add(email5);
+        list.add(email1);//인덱스: 0
+        list.add(email2);//인덱스: 1
+        list.add(email3);//인덱스: 2
+        list.add(email4);//인덱스: 3
+        list.add(email5);//인덱스: 4
         // 제목, 날짜, 보낸이, 받는이, 내용
 
         for (int i = 0; i < list.size(); i++) {
